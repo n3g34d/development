@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Chocolate Chip Cookie",
+      "price": 2.99,
+      "image": "public/images/cc.jpeg",
+      "rating": "4.8",
+      "category": "cookie"
+    },
+    {
+      "name": "Cookies and Cream Cookie",
+      "price": 3.50,
+      "image": "public/images/cookiescream.jpeg",
+      "rating": "5",
+      "category": "cookie"
+    },
+    {
+      "name": "S'mores Cookie",
+      "price": 2.99,
+      "image": "public/images/smores.jpeg",
+      "rating": "4.7",
+      "category": "cookie"
+    },
+    {
+      "name": "Peanut Butter Chocolate Cookie",
+      "price": 3.50,
+      "image": "public/images/pbcook.jpeg",
+      "rating": "4.2",
+      "category": "cookie"
+    },
+    {
+      "name": "Chocolate Cake Slice",
+      "price": 5.99,
+      "image": "public/images/ccake.jpeg",
+      "rating": "4.4",
+      "category": "cake"
+    },
+    {
+      "name": "Strawberries and Cream Cake Slice",
+      "price": 5.99,
+      "image": "public/images/strawberry.jpeg",
+      "rating": "4.8",
+      "category": "cake"
+    },
+    {
+      "name": "Vanilla Rasberry Cake Slice",
+      "price": 5.50,
+      "image": "public/images/vanilla.jpeg",
+      "rating": "4.2",
+      "category": "cake"
+    },
+    {
+      "name": "Carrot Cake Slice",
+      "price": 4.99,
+      "image": "public/images/carrot.jpeg",
+      "rating": "3.2",
+      "category": "cake"
+    },
+    {
+      "name": "Apple Pie Slice",
+      "price": 6.99,
+      "image": "/Users/gracedorantes/development/public/images/apple.jpeg",
+      "rating": "4.9",
+      "category": "pie"
+    },
+    {
+      "name": "Coconut Cream Pie Slice",
+      "price": 6.50,
+      "image": "public/images/coconut.jpeg",
+      "rating": "4.7",
+      "category": "pie"
+    },
+    {
+      "name": "Banana Cream Pie Slice",
+      "price": 6.50,
+      "image": "public/images/banana.jpeg",
+      "rating": "4",
+      "category": "pie"
+    },
+    {
+      "name": "Strawberry Rhubarb Pie Slice",
+      "price": 6.99,
+      "image": "public/images/rhubarb.jpeg",
+      "rating": "4.6",
+      "category": "pie"
+    }
+  ]
